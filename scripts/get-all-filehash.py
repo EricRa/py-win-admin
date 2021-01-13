@@ -1,6 +1,7 @@
 """
 *************FIRST DRAFT OF THIS SCRIPT**********
-*************STILL TESTING/REFINING***********
+*************STILL TESTING/REFINING**************
+*************DO NOT USE YET**********************
 
 To Do List:
 
