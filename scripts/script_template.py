@@ -1,15 +1,24 @@
-# Script description/explanation
+# DESCRIPTION:
+# [description]
+# 
 #
-# How to use this script
+# USAGE: 
+# [Usage instructions]
 #
-# Additional dependencies needed beside Python 3.5+ and Powershell 5.0+
+# DEPENDENCIES:
+# Python 3.5+
+# Powershell 5.0+
+# [Additional dependencies here]
+
+# [code goes here]
 #
-
-
-# Code 
 #
 #
-
-
-# Troubleshooting info/help or random other notes
-
+#
+#
+#
+#
+#
+        
+# NOTES, TROUBLESHOOTING, AND OTHER INFO
+# 
