@@ -6,7 +6,7 @@
 # USAGE: 
 # Run this script to execute a powershell cmdlet in the current directory.
 # In this example, the Powershell script file should be in the same
-# directory as the Python script, but the script can be easily altered
+# directory as the Python script, but the script can be altered
 # to point to the full path of the .ps1 file in another directory
 #
 # DEPENDENCIES:
@@ -20,9 +20,11 @@ import subprocess
 # a python script.
 
 def run_ps1():
-    subprocess.run(["./test_script.ps1"], shell=False)
-        
-        
+    subprocess.run(["C:/Windows/system32/WindowsPowerShell/v1.0/powershell.exe", 
+    "./test_script.ps1"], shell=False)
+    
+run_ps1()
+
 # NOTES, TROUBLESHOOTING, AND OTHER INFO
 
 # The full text of test_script.ps1 in this example is the following:
@@ -35,7 +37,3 @@ def run_ps1():
 # and dumps the output into text files.
 #
 # The text can be replaced with any valid Powershell script.
-
-
-# old code:
-# "C:/Windows/system32/WindowsPowerShell/v1.0/powershell.exe"

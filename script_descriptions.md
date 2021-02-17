@@ -12,5 +12,4 @@
     - This script gets all file and directory names in the current directory and all subdirectories recursively and saves them to a text file
     
 - **run-ps1.py**
-    - *Still testing*
     - This script shows how to execute a Powershell .ps1 script file from a Python script
