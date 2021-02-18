@@ -9,7 +9,13 @@
     - This script can be expanded to send the output to different formats such as json or csv using the Python standard library, but that will be shown in later scripts.
 
 - **file-manifest.py**
-    - This script gets all file and directory names in the current directory and all subdirectories recursively and saves them to a text file
+    - This script gets all file and directory names in the current directory and all subdirectories recursively and saves them to a text file.
     
 - **run-ps1.py**
-    - This script shows how to execute a Powershell .ps1 script file from a Python script
+    - This script shows how to execute a Powershell .ps1 script file from a Python script.
+
+- **out-py-object.py**
+    - This script shows how get output from a Powershell cmdlet or script and save that output as a python object.
+    
+- **create-file.py**
+    - This script creates new files in the current directory using Powershell.
