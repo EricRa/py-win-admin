@@ -19,3 +19,6 @@
     
 - **create-file.py**
     - This script creates new files in the current directory using Powershell.
+
+- **run-multiple-ps1.py**
+    - This script shows how to executed multiple Powershell .ps1 script files from a single Python script
